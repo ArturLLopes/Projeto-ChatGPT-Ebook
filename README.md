@@ -9,7 +9,7 @@
 # Projeto EBOOK Gerado por I.A.s
 Esse Projeto foi feito para o curso de Formação ChatGPT for Devs da DIO.me.
 
-Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramentas de IA. todos os prompts
+Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramentas de IA. Todos os prompts
 seguem abaixo.
 
 <a href="https://github.com/ArturLLopes/Projeto-ChatGPT-Ebook/blob/main/Ebook%20-%20CSS%20sem%20Gambiarra.pdf" title="View PDF now"> 📕Clique aqui para ler</a>
